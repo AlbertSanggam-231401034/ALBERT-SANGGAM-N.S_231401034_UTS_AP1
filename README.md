@@ -21,7 +21,7 @@ Soal terdapat pada _file_ `SOAL UTS AP1.pdf`.
 Silakan masukkan link video ke dalam kotak berikut
 
 ```
-[[link video]](https://drive.google.com/drive/folders/13bItIqbBpxyoNc6ukUHv_2o_A5KN8QJb?hl=id)
+[[link video]][(https://drive.google.com/drive/folders/13bItIqbBpxyoNc6ukUHv_2o_A5KN8QJb?hl=id)](https://drive.google.com/drive/folders/13bItIqbBpxyoNc6ukUHv_2o_A5KN8QJb?usp=sharing)
 ```
 
 ---
